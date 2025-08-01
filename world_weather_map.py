@@ -14,7 +14,7 @@ use service OpenWeather (openweathermap.org)
 for get weather by geo-coordinates
 """
 
-openweathermap_api_key = "bc1c5d21728989b360567bcdc4157b74"  # https://home.openweathermap.org/api_keys
+openweathermap_api_key = "..."  # https://home.openweathermap.org/api_keys
 
 cities = [
     ["Kyiv", "Ukraine"],
